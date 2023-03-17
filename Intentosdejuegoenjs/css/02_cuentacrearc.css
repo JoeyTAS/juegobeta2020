@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-repeat: none;
+}
+
+img{
+    margin: 0;
+    margin-top: 5rem;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    margin-block-end: 8rem;
+}
+.box{
+    background-color:transparent ;
+    margin: auto;
+    padding: auto;
+    width: 400px;
+    height: 360px;
+    border: 4px rgb(73, 255, 88) double;
+    border-radius: 15px;
+}
+
+.celdas{
+    background-color: rgb(51, 180, 51);
+    margin: 25px;
+    padding: 15px;
+    margin-left: 25%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: rgb(30, 255, 0) 3px double;
+    border-radius: 5px;
+}
+
+.btn{
+    position: relative;
+    display: block;
+    padding: 10px;
+    margin-left: 33%;
+    border-radius: 4px; 
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: all 0.4s linear;
+    border: solid greenyellow 2px;
+    margin-bottom: 40px;
+    background-color: rgb(40, 212, 83);
+    color: rgb(0, 255, 13);
+    font-size: 15px;
+    cursor: pointer;
+}
+.btn a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: rgb(255, 183, 255);
+    border: rgb(255, 183, 255);
+    color: whitesmoke;
+}

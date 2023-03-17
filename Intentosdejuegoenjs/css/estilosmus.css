@@ -1,0 +1,16 @@
+button{
+    border-radius: 1000px;
+    margin-top: -10px;
+    background-color: rgb(73, 245, 4);
+    font-size: 12px;
+    color: chartreuse;
+    
+}
+a{
+    text-decoration: none;
+}
+
+#boton{
+    margin-left: 1800px;
+
+}

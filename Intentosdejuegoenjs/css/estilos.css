@@ -1,0 +1,10 @@
+
+body{
+    background: url(imagenes/giphy.webp);
+    background-size: 50%;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+    background-color:black
+}
